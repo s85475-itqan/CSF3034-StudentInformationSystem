@@ -19,6 +19,8 @@ public class StudentInformationSystem {
 
     // The main method : the entry point where the program starts execution
     public static void main(String[] args) {
+        // addition output
+        System.out.println("Status: Active Student");
         // Declare variables to correct data type
         String name = "Itqan Najihah Binti Ismail";
         String studentID = "S85475";
